@@ -2,6 +2,17 @@
     background-image: url("copy-space-bokeh-spring-lights-background_52683-55649.avif");
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100vh;
+    height: 70vh;
     color: rgb(4, 4, 4);
+    text-align: center;
+    padding: 5px;
+    font-size: 20px;
+    margin: 10px;
+}
+.rina{
+    color: aqua;
+    background-color: rgb(26, 26, 225);
+    height: 20vh;
+    padding: 5px;
+    font-size: 20px;
 }
